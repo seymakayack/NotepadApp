@@ -15,7 +15,7 @@
 <img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 46 15" src="https://github.com/seymakayack/NotepadApp/assets/126356442/11cc80fc-cde2-4afc-99f1-00de041a3181">
 
  ### 5-When we click on the edit button, we select the notes we want to delete. We click on the trash can icon and then click done. Note: When the edit feature is on, you cannot enter the note.
-<img width="150" height="400" alt="Ekran Resmi 2024-04-05 14 46 15" src="https://github.com/seymakayack/NotepadApp/assets/126356442/c63320bc-777a-4cc6-acfa-46e07c63d5fb"> <img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 46 35" src="https://github.com/seymakayack/NotepadApp/assets/126356442/4620cb0d-fb59-4867-bb54-8f42d3393f3a"> <img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 46 46" src="https://github.com/seymakayack/NotepadApp/assets/126356442/074d9e1f-e27f-48a5-b283-66f87ff98864"> <img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 47 03" src="https://github.com/seymakayack/NotepadApp/assets/126356442/503b8f04-62d9-4d42-b16a-619332d242e3">
+<img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 46 15" src="https://github.com/seymakayack/NotepadApp/assets/126356442/c63320bc-777a-4cc6-acfa-46e07c63d5fb"> <img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 46 35" src="https://github.com/seymakayack/NotepadApp/assets/126356442/4620cb0d-fb59-4867-bb54-8f42d3393f3a"> <img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 46 46" src="https://github.com/seymakayack/NotepadApp/assets/126356442/074d9e1f-e27f-48a5-b283-66f87ff98864"> <img width="185" height="400" alt="Ekran Resmi 2024-04-05 14 47 03" src="https://github.com/seymakayack/NotepadApp/assets/126356442/503b8f04-62d9-4d42-b16a-619332d242e3">
 
 
 
