@@ -2,7 +2,7 @@
  IOS Notepad App
 
  ### 1-I used collection view cell to display the notes.
-<img width="365" alt="Ekran Resmi 2024-04-05 14 18 32" src="https://github.com/seymakayack/NotepadApp/assets/126356442/ff773e33-1cc6-4f06-b74b-9110ea56ab41">
+<img width="200" height="400" alt="Ekran Resmi 2024-04-05 14 18 32" src="https://github.com/seymakayack/NotepadApp/assets/126356442/ff773e33-1cc6-4f06-b74b-9110ea56ab41">
 
  ### 2-It saves the note when the back button is pressed. When the keyboard comes out, the toolbar is moved up to the size of the keyboard.
 <img width="365" alt="Ekran Resmi 2024-04-05 14 21 42" src="https://github.com/seymakayack/NotepadApp/assets/126356442/509d0c52-bbbd-44d8-af3d-cbf7a2d024db">
